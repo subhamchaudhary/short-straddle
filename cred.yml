@@ -1,0 +1,6 @@
+user    : 'userid'
+pwd     : 'password'
+factor2 : 'PAN no.'
+vc      : 'userid_U'
+apikey  : 'api key'
+imei    : 'abc1234'
