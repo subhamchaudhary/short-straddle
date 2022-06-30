@@ -4,3 +4,5 @@ This is only a trial version. So, some features are limited. Let us know for any
 -	For every order you can trigger SL. 
 -	You can modify SL only to those order which you trigger recently. (not past one)
 -	For scheduling you have to enter time in hh:mm:ss, after this executed you can trigger SL.
+
+Kindly execute -> short_straddle.py
